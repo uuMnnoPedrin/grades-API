@@ -1,0 +1,15 @@
+.post{
+    color: blue;
+}
+
+.get{
+    color: green;
+}
+
+.delete{
+    color: red;
+}
+
+.patch{
+    color: purple;
+}
